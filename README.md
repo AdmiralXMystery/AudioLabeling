@@ -2,6 +2,9 @@
 
 A WPF desktop application for **manual audio data labeling** — quickly assign categories to audio files, navigate through a playlist, visualize waveforms, and export annotations to JSON Lines format for machine learning datasets.
 
+---
+
+![Main Windows Screenshot](screenshots/main_window.png)
 
 ---
 

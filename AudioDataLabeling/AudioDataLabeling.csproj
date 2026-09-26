@@ -10,6 +10,7 @@
 	<Version>1.0.0</Version>
 	<Authors>Admiral Mystery</Authors>
 	<Product>AudioLabeling</Product>
+	<ApplicationIcon>Icons\audio_icon.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
